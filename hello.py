@@ -1,5 +1,5 @@
-﻿def print_hello():
-    print("Hello")
+def print_hello():
+    print("hello everyone")
 
 
 def greetWhite():
@@ -8,4 +8,3 @@ def greetWhite():
 
 if __name__ == "__main__":
     print_hello()
-
